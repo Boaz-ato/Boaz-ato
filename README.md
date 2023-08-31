@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+This is my profile summary page. I will add more details later.
+Thanks.
+
 <!--
 **Boaz-ato/Boaz-ato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
