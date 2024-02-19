@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Boaz Ato Micah, and I am interested in writing algorithms for quantum computers. I am new to this field and am currently working on tackling good first issues on Qiskit.
+I am Boaz Ato Micah, and I am interested in writing algorithms for quantum computers. 
 
 My Master's thesis involved investigating the crystal structure of the two-dimensional material known as Vanadium tri-iodide. You can explore the complete project at [Master's Thesis](https://github.com/Boaz-ato/Masters-Thesis/blob/main/Master_Thesis.pdf).
 
